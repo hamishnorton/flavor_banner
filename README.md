@@ -27,8 +27,8 @@ Add to your `pubspec.yaml`
 ```yaml
 dependencies:
   flavor_banner:
-  git:
-    url: https://github.com/hamishnorton/flavor_banner.git
+    git:
+      url: https://github.com/hamishnorton/flavor_banner.git
 ```
 
 ## Usage
